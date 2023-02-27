@@ -1,3 +1,3 @@
-module github.com/JroLuttringer/jro-blocks
+module github.com/JroLuttringer/jro-courses-block
 
 go 1.19
